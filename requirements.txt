@@ -1,0 +1,12 @@
+streamlit
+pandas
+matplotlib
+geopandas
+unidecode
+rapidfuzz
+openpyxl
+shapely
+pyproj
+fiona
+folium
+streamlit-folium
